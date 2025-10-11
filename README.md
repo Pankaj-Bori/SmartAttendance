@@ -48,6 +48,11 @@ Contributions are welcome! Please open issues for bugs or feature requests, and 
 ## Maintainers
 
 - Pankaj Bori — [GitHub profile](https://github.com/Pankaj-Bori)
+- Divyansh Sharma - [GitHub profile](https://github.com/DivyAnSHas)
+- Abhishek Sharma
+- Nethavat Jagadish
+- Chesung
+- Sammer Pratab Singh
 
 ## License
 
