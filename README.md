@@ -33,12 +33,12 @@ This project implements an automated school attendance and transport safety syst
 ## Folder Structure
 
 SmartAttendance/
-├── backend/ # Java Spring Boot backend source code
-├── mobile/ # Mobile app source (Android Java or Flutter)
-├── hardware/ # Device code for RFID and GPS modules
-├── dashboard/ # Admin dashboard source code (React)
-├── docs/ # Documentation files
-└── testdata/ # Sample data and test files
+backend/ # Java Spring Boot backend source code
+mobile/ # Mobile app source (Android Java or Flutter)
+hardware/ # Device code for RFID and GPS modules
+dashboard/ # Admin dashboard source code (React)
+docs/ # Documentation files
+testdata/ # Sample data and test files
 
 
 ## Contributing
