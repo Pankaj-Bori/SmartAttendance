@@ -49,9 +49,9 @@ Contributions are welcome! Please open issues for bugs or feature requests, and 
 
 - Pankaj Bori — [GitHub profile](https://github.com/Pankaj-Bori)
 - Divyansh Sharma - [GitHub profile](https://github.com/DivyAnSHas)
-- Abhishek Sharma
-- Nethavat Jagadish
-- Chesung
+- Abhishek Sharma - [GitHub profile](https://github.com/AbhishekSharma7977)
+- Nethavat Jagadish -[Github profile](https://github.com/
+- Chasang tsering Bhutia - [GitHub profile](https://github.com/ChasangBhutia)
 - Sammer Pratab Singh
 
 ## License
